@@ -1,7 +1,8 @@
 # Sales-Dashboard-Master-Using-Excel-
 This is the master dataset containing detailed transactional information for an e-commerce or retail business.  Size: 9,994 rows and 23 columns
 # 📊 Sales Dashboard – Camera Shop
-![Uploading ECOMMER.png…]()
+
+<img width="1735" height="603" alt="ECOMMER" src="https://github.com/user-attachments/assets/c70a450d-2dbd-4bcf-ae5a-b4cf75058549" />
 
 ## 📌 Project Overview
 This project presents an **interactive Sales Dashboard** for a Camera Shop business.  
